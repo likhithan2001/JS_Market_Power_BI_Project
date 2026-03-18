@@ -46,14 +46,6 @@ This project focuses on analyzing market sales data using **Power BI** to uncove
 
 ---
 
-## 📷 Dashboard Preview
-> ⚠️ Add your screenshots here (VERY IMPORTANT for recruiters)
-
-Example:
-![Dashboard Screenshot](images/dashboard.png)
-
----
-
 ## 📁 Project Structure
 JS_Market_Power_BI_Project/
 │── dataset/
